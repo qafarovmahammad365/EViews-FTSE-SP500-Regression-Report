@@ -4,29 +4,29 @@
 
 This project examines the statistical relationship between the FTSE 100 Index and the S&P 500 Index using linear regression analysis in EViews.
 
-Historical market data was collected from Bloomberg and analysed to evaluate the relationship between the two stock market indices.
+Historical market data was sourced from Bloomberg Terminal and analysed to evaluate the relationship between the two major stock market indices.
 
 ---
 
 ## Objectives
 
-- Investigate the relationship between the FTSE 100 and S&P 500
-- Build and interpret a linear regression model
+- Investigate the relationship between FTSE 100 and S&P 500 returns
+- Develop and interpret a linear regression model
 - Evaluate statistical significance
 - Assess model performance using regression diagnostics
-- Present findings in a professional report
+- Present findings through a professional analytical report
 
 ---
 
 ## Data Source
 
-- Bloomberg Terminal
+- Bloomberg Terminal (historical market data)
 
 ---
 
 ## Tools Used
 
-- Bloomberg
+- Bloomberg Terminal
 - EViews
 - Microsoft Excel
 
@@ -37,20 +37,22 @@ Historical market data was collected from Bloomberg and analysed to evaluate the
 | File | Description |
 |------|-------------|
 | EViews_FTSE_SP500_Regression_Report.pdf | Full regression analysis report |
-| Book1.csv | Dataset used for the analysis |
+| Book1.xlsx | Dataset used for the analysis |
 | table 01.pdf | Regression output table |
 | table 3 00.pdf | Additional regression output |
+
+**Note:** The Excel dataset is included in the repository. GitHub may not display Excel files directly in the browser preview. Please download the `.xlsx` file to view the full dataset.
 
 ---
 
 ## Skills Demonstrated
 
 - Financial Data Analysis
-- Econometric Modelling
 - Regression Analysis
 - Statistical Interpretation
-- Bloomberg Terminal
-- Financial Research
+- Financial Market Research
+- Bloomberg Terminal Data Usage
+- Excel-Based Data Preparation
 
 ---
 
@@ -60,3 +62,9 @@ Historical market data was collected from Bloomberg and analysed to evaluate the
 
 BSc Finance  
 University of Essex
+
+---
+
+## Connect With Me
+
+LinkedIn: [Mahammad Gafarov](https://www.linkedin.com/in/mahammad-gafarov-aa382b38b/)
